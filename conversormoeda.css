@@ -1,0 +1,37 @@
+body{
+    background-color: slateblue;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(244, 248, 255);
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(157, 255, 0);
+    
+}
+
+input{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    background: #ffffff;
+    display: inline-block;
+  
+    
+}
+
+
+
+
