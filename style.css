@@ -1,0 +1,29 @@
+body{   
+    background-image: url(photo-1593005510329-8a4035a7238f.jpeg)
+
+}
+ h1{
+    text-align: center;
+    font-size: 45px;
+ }
+#subtitulo {
+    text-align: justify;
+    font-size: 30px;
+}
+
+div.projetos{
+    justify-content: space-between;
+    font-size: 30px;
+    display:flex;
+
+}
+
+a{
+    color: rgb(46, 46, 46);
+    
+}
+
+#insta{
+    font-size: 30px;
+    font-style: italic;
+}
